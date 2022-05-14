@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+# -- Kraken --
+
+
+
+
+
+
+
+
 from flask import Blueprint, render_template, request, current_app as app
 from bson.objectid import ObjectId
 import time
